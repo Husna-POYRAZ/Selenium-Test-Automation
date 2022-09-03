@@ -7,7 +7,7 @@
 * Manual cration of logs and repositories
 * High risk of error
 
-<img src="https://user-images.githubusercontent.com/75911392/188282371-c4daa2d6-dc60-48e9-8a9a-a57df06ff1c8.png"  width="500" heigh ="500"/>
+<img src="https://user-images.githubusercontent.com/75911392/188282371-c4daa2d6-dc60-48e9-8a9a-a57df06ff1c8.png"  width="700" heigh ="700"/>
 
 ## What is Selenium?
 Selenium is an automated testing tool used to test web applications across various browsers.
@@ -26,16 +26,16 @@ Selenium is an automated testing tool used to test web applications across vario
 * Selenium Grid
 * Selenium RC
 
-<img src="https://user-images.githubusercontent.com/75911392/188282663-923716dc-199d-4092-9703-6d8978bfe2eb.png" width="500" heigh ="500"/>
+<img src="https://user-images.githubusercontent.com/75911392/188282663-923716dc-199d-4092-9703-6d8978bfe2eb.png" width="700" heigh ="700"/>
 
 ## Selenium Versions
-<img src="https://user-images.githubusercontent.com/75911392/188282725-03a0f7ca-8ae7-40bd-90b3-c6f2c7df54f1.png" width="500" heigh ="500"/>
+<img src="https://user-images.githubusercontent.com/75911392/188282725-03a0f7ca-8ae7-40bd-90b3-c6f2c7df54f1.png" width="700" heigh ="700"/>
 
 ## Selenium IDE
 * Easy to use interface to build automated test script
 * Records user interactions on the browser and exports them as a reusable script
 * Advancements with new Selenium IDE
-<img src="ttps://user-images.githubusercontent.com/75911392/188282878-641d2747-a781-4f99-8f30-adc700d2b401.png" width="500" heigh ="500"/>
+<img src="ttps://user-images.githubusercontent.com/75911392/188282878-641d2747-a781-4f99-8f30-adc700d2b401.png" width="700" heigh ="700"/>
 
 ## Selenium RC
 * Selenium RC is a server written in Java
@@ -52,7 +52,7 @@ Selenium is an automated testing tool used to test web applications across vario
 * Supports frameworks like TestNG, JUnit, NUnit
 * Architecture of WebDriver
 
-<img src="https://user-images.githubusercontent.com/75911392/188283072-a12c07c1-a6b4-4759-a84b-65324ca4f3a7.png" width="500" heigh ="500"/>
+<img src="https://user-images.githubusercontent.com/75911392/188283072-a12c07c1-a6b4-4759-a84b-65324ca4f3a7.png" width="700" heigh ="700"/>
 
 
 
