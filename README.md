@@ -18,7 +18,7 @@ Selenium is an automated testing tool used to test web applications across vario
 * Primarily developed in JavaScript
 * Browser and platform independent
 
-<img src="https://user-images.githubusercontent.com/75911392/188282591-4f7666f3-5469-4c65-9a10-fa6e5fe7df7f.png" width="500" heigh ="500"/>
+<img src="https://user-images.githubusercontent.com/75911392/188282591-4f7666f3-5469-4c65-9a10-fa6e5fe7df7f.png" width="700" heigh ="700"/>
 
 ## Selenium Suite of Tools
 * Selenium IDE
