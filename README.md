@@ -54,5 +54,14 @@ Selenium is an automated testing tool used to test web applications across vario
 
 <img src="https://user-images.githubusercontent.com/75911392/188283072-a12c07c1-a6b4-4759-a84b-65324ca4f3a7.png" width="700" heigh ="700"/>
 
+* Limitations of WebDriver
+- Cannot test mobile applications. Requires frameworks like Appium.<br>
+- Can only perform sequential testing hence requires Grid for parallel testing.<br>
+- Limited reporting. Trhird party tools like TestNG are required.<br>
+
+## Comparison Between Selenium RC and WebDriver
+<img src="https://user-images.githubusercontent.com/75911392/188284057-dd07d703-0b0b-4499-b441-012cad07d93d.png" width="700" heigh ="700"/>
+
+
 
 
